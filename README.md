@@ -1,5 +1,5 @@
-# h-m_recommendation_system_ml_project
-The repository contains a machine learning project focused on building a recommendation system using the H&M dataset. The project aims to provide personalized product recommendations to users based on their preferences and browsing history.
+# h-m_data_exploration_ml_project
+The repository contains a machine learning project focused on data exploration using the H&M dataset. The project aims to provide personalized product recommendations to users based on their preferences and browsing history.
 ## Top 10 Product Catagories
 ![img](https://github.com/ttariqaziz/h-m_recommendation_system_ml_project/blob/main/Plots/Top%2010%20Product%20Catagories.png)
 ## List of Article Catagories
